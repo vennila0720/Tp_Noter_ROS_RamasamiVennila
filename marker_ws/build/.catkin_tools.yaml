@@ -1,0 +1,6 @@
+devel_space: /home/akash/Documents/tp_noter_ros/marker_ws/devel
+install: false
+install_space: /home/akash/Documents/tp_noter_ros/marker_ws/install
+profile: default
+source_space: /home/akash/Documents/tp_noter_ros/marker_ws/src
+workspace: /home/akash/Documents/tp_noter_ros/marker_ws

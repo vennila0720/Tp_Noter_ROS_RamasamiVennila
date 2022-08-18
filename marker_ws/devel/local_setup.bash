@@ -1,0 +1,1 @@
+/home/akash/Documents/tp_noter_ros/marker_ws/devel/.private/catkin_tools_prebuild/local_setup.bash
